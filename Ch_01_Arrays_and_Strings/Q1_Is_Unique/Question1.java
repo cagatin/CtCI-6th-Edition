@@ -1,7 +1,7 @@
 package Ch_01_Arrays_and_Strings.Q1_Is_Unique;
 
 import java.util.Set;
-import java.util.HashSet;;
+import java.util.HashSet;
 
 /* Task: Implement an algorithm to determine if a string has all unique characters*/
 public class Question1 {
